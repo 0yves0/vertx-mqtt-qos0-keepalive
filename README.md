@@ -1,0 +1,1 @@
+# vertx-mqtt-qos0-keepalive
